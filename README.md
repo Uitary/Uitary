@@ -64,11 +64,11 @@ I'm a CS student on a mission to understand how software works from the ground u
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uitary&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uitary&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uitary&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Uitary&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
