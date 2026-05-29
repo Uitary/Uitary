@@ -43,18 +43,6 @@ I'm a CS student on a mission to understand how software works from the ground u
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivankaizer&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankaizer&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>Open to learning, collaborating, and connecting with fellow devs.</i>
 </p>
