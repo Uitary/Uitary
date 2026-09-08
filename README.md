@@ -1,3 +1,10 @@
+# Ivankaizer Zaldivar
+
+Computer Science Student & Developer
+
+🌐 Portfolio: https://ivankaizerzaldivar.vercel.app/
+💻 GitHub: https://github.com/Uitary
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ivankaizer+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 </h1>
