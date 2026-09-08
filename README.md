@@ -1,8 +1,5 @@
 # Ivankaizer Zaldivar
-
-**Computer Science Student & Developer**
-
-I'm **Ivankaizer Zaldivar**, a 2nd-year Computer Science student and developer on GitHub as **[@Uitary](https://github.com/Uitary)**.
+**Computer Science Student & Developer** · 2nd Year · GitHub: [@Uitary](https://github.com/Uitary)
 
 🌐 **Portfolio:** https://ivankaizerzaldivar.vercel.app/
 💻 **GitHub:** https://github.com/Uitary
