@@ -1,9 +1,11 @@
 # Ivankaizer Zaldivar
 
-Computer Science Student & Developer
+**Computer Science Student & Developer**
 
-🌐 Portfolio: https://ivankaizerzaldivar.vercel.app/
-💻 GitHub: https://github.com/Uitary
+I'm **Ivankaizer Zaldivar**, a 2nd-year Computer Science student and developer on GitHub as **[@Uitary](https://github.com/Uitary)**.
+
+🌐 **Portfolio:** https://ivankaizerzaldivar.vercel.app/
+💻 **GitHub:** https://github.com/Uitary
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ivankaizer+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
@@ -34,7 +36,6 @@ I'm a CS student on a mission to understand how software works from the ground u
 ## 🛠️ Languages & Technologies
 
 ### ⚙️ Systems & General Purpose
-
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -44,7 +45,6 @@ I'm a CS student on a mission to understand how software works from the ground u
 </p>
 
 ### 🌐 Web Development
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -52,7 +52,6 @@ I'm a CS student on a mission to understand how software works from the ground u
 </p>
 
 ### 🎮 Game Development
-
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -73,24 +72,20 @@ I'm a CS student on a mission to understand how software works from the ground u
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uitary&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Uitary&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
+- 🌐 **Portfolio:** https://ivankaizerzaldivar.vercel.app/
+- 💻 **GitHub:** https://github.com/Uitary
+- 📘 **Facebook:** https://www.facebook.com/ivankaizer.zaldivar.7
+- 📸 **Instagram:** https://www.instagram.com/zzxiz.er/
+- 🎵 **TikTok:** https://www.tiktok.com/@ywerx.en
+
 <p align="center">
-  <i>Open to learning, collaborating, and connecting with fellow devs.</i><br><br>
-  <a href="https://www.facebook.com/ivankaizer.zaldivar.7">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/zzxiz.er/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@ywerx.en">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
+  <i>Open to learning, collaborating, and connecting with fellow devs.</i>
 </p>
