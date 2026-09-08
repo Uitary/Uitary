@@ -1,20 +1,15 @@
+<div align="center">
+
 # Ivankaizer Zaldivar
 **Computer Science Student & Developer** · 2nd Year · GitHub: [@Uitary](https://github.com/Uitary)
 
-🌐 **Portfolio:** https://ivankaizerzaldivar.vercel.app/
-💻 **GitHub:** https://github.com/Uitary
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ivankaizer+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ivankaizer+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Learner" alt="Typing SVG" />
-</h1>
+<em>Building things and breaking them to learn</em>
 
-<p align="center">
-  <em>Computer Science Student · 2nd Year · Building things and breaking them to learn</em>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Uitary&style=flat-square&color=58A6FF" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uitary&style=flat-square&color=58A6FF" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
@@ -22,7 +17,7 @@
 
 I'm a CS student on a mission to understand how software works from the ground up — from low-level C/C++ all the way to interactive web pages and games. I enjoy experimenting with different languages and paradigms, and I learn best by building.
 
-- 🎓 **2nd Year Computer Science Student**
+- 🎓 2nd Year Computer Science Student
 - 🌱 Currently deepening my skills in **C/C++**, **Java**, and **Web Development**
 - 🎮 Exploring **Game Development** on the side
 - 💡 Always curious, always learning
@@ -32,27 +27,41 @@ I'm a CS student on a mission to understand how software works from the ground u
 
 ## 🛠️ Languages & Technologies
 
-### ⚙️ Systems & General Purpose
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Systems & General Purpose**
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🌐 Web Development
+</td>
+<td valign="top" width="33%">
+
+**Web Development**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🎮 Game Development
+</td>
+<td valign="top" width="33%">
+
+**Game Development**
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,11 +86,23 @@ I'm a CS student on a mission to understand how software works from the ground u
 
 ## 🌐 Connect With Me
 
-- 🌐 **Portfolio:** https://ivankaizerzaldivar.vercel.app/
-- 💻 **GitHub:** https://github.com/Uitary
-- 📘 **Facebook:** https://www.facebook.com/ivankaizer.zaldivar.7
-- 📸 **Instagram:** https://www.instagram.com/zzxiz.er/
-- 🎵 **TikTok:** https://www.tiktok.com/@ywerx.en
+<p align="center">
+  <a href="https://ivankaizerzaldivar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ivankaizer.zaldivar.7">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/zzxiz.er/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@ywerx.en">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
 
 <p align="center">
   <i>Open to learning, collaborating, and connecting with fellow devs.</i>
