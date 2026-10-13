@@ -7,7 +7,7 @@
 
 <em>Building things and breaking them to learn</em>
 
-<img src="https://komarev.com/ghpvc/?username=Uitary&style=flat-square&color=58A6FF" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Uitary" alt="Profile Views" />
 
 </div>
 
